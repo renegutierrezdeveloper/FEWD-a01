@@ -14,6 +14,7 @@ I want to learn JavaScript to further my career. JavaScript, I feel, is necessar
 
 
 One of my favorite places to go is Tombstone, Arizona:
+
 ![O.K. Corral site](https://www.go-arizona.com/media/photos/media-691767-630x420.jpg)
 
 If you would like to travel to **Tombstone, AZ** and expericene the _"Old West"_ for yourself like I did, check out some information [here](https://discovertombstone.com/)
